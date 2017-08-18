@@ -1,0 +1,28 @@
+
+- Lean UX
+
+  
+- Principios SOLID
+
+
+- Clojure
+
+
+- Scala
+
+
+- Scrum
+
+
+- Pruebas de Software
+
+
+- RUP
+
+
+- Lenguaje SQL
+
+
+
+
+  
