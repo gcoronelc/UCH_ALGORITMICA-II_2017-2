@@ -5,14 +5,14 @@
 
 
 - Principio DRY
-
+  Picon, Acuña, Reyes
 
 
 - Lean UX
-
+  Berrospi, Vilchez, Choque
   
 - Principios SOLID
-
+  Reyes, Ruiz, Huaccha
 
 - Clojure
 
@@ -21,16 +21,17 @@
 
 
 - Scala
-
+  Francisco, Saldaña, Gutierrez
 
 - Pruebas de Software
-
+  Holguin, Clemente, Mendoza
 
 - RUP
+  Ricra, Romucho, Diaz
 
 
 - Lenguaje SQL
-
+  Carrion, Lozano, Proscopio
 
 
 

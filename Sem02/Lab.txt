@@ -1,0 +1,45 @@
+- Patron Fachada
+
+
+- Patrón Factory
+
+
+- Principio DRY
+  Picon, Acuña, Reyes
+  Proyecto 1
+
+- Lean UX
+  Berrospi, Vilchez, Choque
+  Proyecto 3
+  
+- Principios SOLID
+  Reyes, Ruiz, Huaccha
+  Proyecto 4
+
+- Clojure
+
+
+- SCRUM
+
+
+- Scala
+  Francisco, Saldaña, Gutierrez
+  Proyecto 5
+
+- Pruebas de Software
+  Holguin, Clemente, Mendoza
+  Proyecto 6
+
+- RUP
+  Ricra, Romucho, Diaz
+  Proyecto 7
+
+- Lenguaje SQL
+  Carrion, Lozano, Proscopio
+  Proyecto 8
+
+
+
+
+
+  
