@@ -1,9 +1,11 @@
-![ALGORITMICA II](https://raw.githubusercontent.com/gcoronelc/UCH_ALGORITMICA-II_2017-2/master/img/logo.png)
-![ALGORITMICA II](https://raw.githubusercontent.com/gcoronelc/UCH_ALGORITMICA-II_2017-2/master/img/ds.png)
-![ALGORITMICA II](https://raw.githubusercontent.com/gcoronelc/UCH_ALGORITMICA-II_2017-2/master/img/java-cs.png)
-
-
 # ALGORITMICA II
+
+
+![ALGORITMICA II](https://raw.githubusercontent.com/gcoronelc/UCH_ALGORITMICA-II_2017-2/master/img/logo.png)
+
+
+
+## DATOS DEL CURSO
 
 - Lugar: UNIVERSIDAD DE CIENCIAS Y HUMANIDADES
 - Horario: VIERNES DE 18:00 a 22:30 Horas
@@ -12,7 +14,7 @@
 - Laboratorio: 201-B (20:15 a 22:30 Horas)
 
 
-# DOCENTE
+## DOCENTE
 
 - Docente: Eric Gustavo Coronel Castillo
 - Blog: www.desarrollasoftware.com
@@ -28,7 +30,6 @@
 
 ## ARQUITECTURA DE SOFTWARE
 
-
 - Parte 1: https://youtu.be/2Bcbls0bBzs
 - Parte 2: https://youtu.be/97_3-D4NrI0
 - Parte 3: https://youtu.be/zZWVMmeDdQw
@@ -36,8 +37,12 @@
 - Entrevista: http://blog.soreygarcia.me/2014/03/modelos-y-arquitectura-de-software.html
 - Blog: http://blog.soreygarcia.me/
 - Slideshare: https://www.slideshare.net/soreygarcia
+- Analisis y Diseño Orientado a Objetos: https://youtu.be/xyuyCoYKvy0
+- Pruebas de Software: https://youtu.be/pII2WpxJQg4
+- Pruebas de Cobertura: https://youtu.be/F0qx_WXz5Z8
 
-# JAVA ORIENTADO A OBJETOS
+
+## JAVA ORIENTADO A OBJETOS
 
 - Recursos: https://github.com/gcoronelc/recursos
 - Imagenes: https://github.com/gcoronelc/imagenes
@@ -53,7 +58,7 @@
 - Lección 09: http://gcoronelc.blogspot.pe/2014/04/java-poo-leccion-09-excepciones.html
 
 
-# OTROS RECURSOS RECOMENDADOS
+# RECURSOS RECOMENDADOS
 
 - Curso de Git: https://www.udemy.com/git-started-with-github
 - Recursos de Java: http://gcoronelc.blogspot.pe/p/java.html
@@ -73,7 +78,8 @@
 - Microservicios: https://youtu.be/PrDBpY4hnN0
 
 
-# AUTO-EVALUACIÓN
+
+## AUTO-EVALUACIÓN
 
 - Enlace 1: http://cibertest.com/test-examen/11/java
 - Enlace 2: http://www.digitallearning.es/tests/java-poo.html
@@ -98,3 +104,9 @@
 - Enlace 21: http://www.techbeamers.com/category/java-quiz/
 - Enlace 22: https://modernpathshala.com/
 - Enlace 23: http://www.whizlabs.com
+
+
+## OTROS RECURSOS
+
+![ALGORITMICA II](https://raw.githubusercontent.com/gcoronelc/UCH_ALGORITMICA-II_2017-2/master/img/ds.png)
+![ALGORITMICA II](https://raw.githubusercontent.com/gcoronelc/UCH_ALGORITMICA-II_2017-2/master/img/java-cs.png)
