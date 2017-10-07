@@ -4,6 +4,7 @@ import pe.uch.ventacarlossoto.model.Categoria;
 
 public class VentaService {
     
+    
     public static Categoria[] categorias;
     
     static {
