@@ -1,0 +1,76 @@
+GRUPO 01
+------------------------------------------
+- Tema: API Java para JSON
+Estudiantes:
+- BERROSPI SALAZAR JAVIER ABRAHAM
+- CHOQUE SALVATIERRA RICARDO JAVIER
+- VILCHEZ FLORES MELINA DEL ROSARIO
+
+GRUPO 02
+------------------------------------------  
+- Tema: Principio DRY (Casos)
+Estudiantes:
+
+- RUIZ RAFAEL HERNANDO BERNABE
+- HUACCHA ESTELA JOSE CHRISTIAN
+- ALDUDE TIPULA MARIANNE
+
+GRUPO 03
+------------------------------------------
+- Tema: SCRUM
+Estudiantes: 
+- FRANCISCO YAULI VANESA
+- SALDAÑA BARTRA JEAN PIERRE
+- GUTIERREZ ORTEGA JHAIR JUNIOR
+- FLORES PALACIN CARLOS ENRIQUE
+  
+GRUPO 04
+------------------------------------------
+- Tema: HTML5
+Estudiantes:
+- CLEMENTE MONDRAGON JOSIAS
+- HOLGUIN CUEVA PEDRO ALEJANDRO
+- CRUZ ACUÑA JEFERSON
+- REYES CALDERON ANGIE MELANIE
+  
+GRUPO 05
+------------------------------------------ 
+- Tema: Código Limpio
+Estudiantes:
+- DIAZ NUÑEZ CARLOS IVAN
+- RICRA CHAUCA YORDIN KENEDY
+- ROMUCHO HUAYTAN ESTHER ELENA
+- LAURA FUERTES JOSE DANIEL
+
+GRUPO 06
+------------------------------------------
+- Tema: Clojure
+Estudiantes:
+- CARRION SILVA ALEXIS JAVIER
+- LOZANO OBLITAS ABRAHAM
+- PROSCOPIO FERNANDEZ OMAR ANTHONY
+
+
+
+
+PICON CANALES JESUS EDUARDO
+REYES VICHARRA RAFAEL EDU
+ESCARCENA AYALA JOSÉ LUIZ
+ARROYO RAMOS LUIS ALFREDO
+MENDOZA GOMEZ JHON MAYKOL
+
+
+- Patron Fachada
+- Patrón Factory
+- 
+- Pruebas Unitarias
+- Principios SOLID
+- Programación Funcional y Expresiones Lambda
+
+
+- Lean UX
+- Principios SOLID
+- Scala
+- Pruebas de Software
+- RUP
+- Lenguaje SQL
