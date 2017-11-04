@@ -5,15 +5,16 @@ Estudiantes:
 - BERROSPI SALAZAR JAVIER ABRAHAM
 - CHOQUE SALVATIERRA RICARDO JAVIER
 - VILCHEZ FLORES MELINA DEL ROSARIO
+- RUIZ RAFAEL HERNANDO BERNABE
+
 
 GRUPO 02
 ------------------------------------------  
 - Tema: Principio DRY (Casos)
 Estudiantes:
-
-- RUIZ RAFAEL HERNANDO BERNABE
 - HUACCHA ESTELA JOSE CHRISTIAN
-- ALDUDE TIPULA MARIANNE
+
+
 
 GRUPO 03
 ------------------------------------------
@@ -24,6 +25,7 @@ Estudiantes:
 - GUTIERREZ ORTEGA JHAIR JUNIOR
 - FLORES PALACIN CARLOS ENRIQUE
   
+  
 GRUPO 04
 ------------------------------------------
 - Tema: HTML5
@@ -32,6 +34,7 @@ Estudiantes:
 - HOLGUIN CUEVA PEDRO ALEJANDRO
 - CRUZ ACUÑA JEFERSON
 - REYES CALDERON ANGIE MELANIE
+  
   
 GRUPO 05
 ------------------------------------------ 
@@ -42,6 +45,7 @@ Estudiantes:
 - ROMUCHO HUAYTAN ESTHER ELENA
 - LAURA FUERTES JOSE DANIEL
 
+
 GRUPO 06
 ------------------------------------------
 - Tema: Clojure
@@ -49,7 +53,7 @@ Estudiantes:
 - CARRION SILVA ALEXIS JAVIER
 - LOZANO OBLITAS ABRAHAM
 - PROSCOPIO FERNANDEZ OMAR ANTHONY
-
+- ALDUDE TIPULA MARIANNE
 
 
 
