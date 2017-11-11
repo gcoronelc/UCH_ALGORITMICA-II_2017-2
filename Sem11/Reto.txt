@@ -1,0 +1,25 @@
+Desarrollar un programa en Java
+que permita a la UCH procesar
+las encuestas sobre cursos
+para verano.
+
+Programación:
+- Spring FrameWork
+- Java Orientado a Objetos
+- Java JDBC
+- Java Web
+
+Desarrollo de Sistemas
+- Desarrollo de un modulo de facturación - Java JDBC
+- Desarrollo de un modulo de facturación - Java Web
+- Desarrollo de un modulo de facturación - Spring Framework
+
+Base de Datos
+- Implementación de Base de Datos Oracle
+- Programación de Base de Datos Oracle
+
+Matematicas
+
+
+
+
