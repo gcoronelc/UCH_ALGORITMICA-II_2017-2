@@ -2,19 +2,19 @@ GRUPO 01
 ------------------------------------------
 - Tema: API Java para JSON
 Estudiantes:
-- BERROSPI SALAZAR JAVIER ABRAHAM
 - CHOQUE SALVATIERRA RICARDO JAVIER
 - VILCHEZ FLORES MELINA DEL ROSARIO
 - RUIZ RAFAEL HERNANDO BERNABE
+- ARROYO RAMOS LUIS ALFREDO
 
 
 GRUPO 02
 ------------------------------------------  
-- Tema: Principio DRY (Casos)
+- Tema: JAVA GENERIC
 Estudiantes:
 - HUACCHA ESTELA JOSE CHRISTIAN
-
-
+- MENDOZA GOMEZ JHON MAYKOL
+- BERROSPI SALAZAR JAVIER ABRAHAM
 
 GRUPO 03
 ------------------------------------------
@@ -60,13 +60,12 @@ Estudiantes:
 PICON CANALES JESUS EDUARDO
 REYES VICHARRA RAFAEL EDU
 ESCARCENA AYALA JOSÉ LUIZ
-ARROYO RAMOS LUIS ALFREDO
-MENDOZA GOMEZ JHON MAYKOL
 
 
+
+- Principio DRY (Casos)
 - Patron Fachada
 - Patrón Factory
-- 
 - Pruebas Unitarias
 - Principios SOLID
 - Programación Funcional y Expresiones Lambda
