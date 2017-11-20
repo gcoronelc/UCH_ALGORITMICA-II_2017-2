@@ -1,0 +1,10 @@
+El INEI necesita un software que permita
+realizar un simulacro del censo.
+
+La aplicación debe permitir saber:
+
+- Cantidad de hombres
+- Cantidad de mujeres
+- Cantidad de mayores de edad: Todos, Hombres y Mujeres
+- Cantidad de menores de edad: Todos, Hombres y mujeres
+- Grado de instrucción: Primaria, Secundaria, Superior (Todos, Hombres y Mujeres)
